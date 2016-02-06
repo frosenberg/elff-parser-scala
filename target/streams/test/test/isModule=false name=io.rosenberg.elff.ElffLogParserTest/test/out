@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32mElffLogParserTest:[0m[0m
-[0m[[0minfo[0m] [0m[32mThe ElffLogParser [0m[0m
-[0m[[0minfo[0m] [0m[32m- should read 5 log lines with an implicit log format specification[0m[0m
-[0m[[0minfo[0m] [0m[32mThe ElffLogParser [0m[0m
-[0m[[0minfo[0m] [0m[32m- should read 5 log lines with an explicit log format specification[0m[0m
