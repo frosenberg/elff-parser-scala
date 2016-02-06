@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /Users/florian/Code/elff-parser-scala/target/scala-2.11/elff-parser-scala_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	io/rosenberg[0m
+[0m[[0mdebug[0m] [0m	  /Users/florian/Code/elff-parser-scala/target/scala-2.11/classes/io/rosenberg[0m
+[0m[[0mdebug[0m] [0m	io/rosenberg/elff[0m
+[0m[[0mdebug[0m] [0m	  /Users/florian/Code/elff-parser-scala/target/scala-2.11/classes/io/rosenberg/elff[0m
+[0m[[0mdebug[0m] [0m	io/rosenberg/elff/LogItemsIterator$$anonfun$nextLine$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/florian/Code/elff-parser-scala/target/scala-2.11/classes/io/rosenberg/elff/LogItemsIterator$$anonfun$nextLine$1.class[0m
+[0m[[0mdebug[0m] [0m	io/rosenberg/elff/LogItemsIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/florian/Code/elff-parser-scala/target/scala-2.11/classes/io/rosenberg/elff/LogItemsIterator.class[0m
+[0m[[0mdebug[0m] [0m	io/rosenberg/elff/ElffLogParser.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/florian/Code/elff-parser-scala/target/scala-2.11/classes/io/rosenberg/elff/ElffLogParser.class[0m
+[0m[[0mdebug[0m] [0m	io[0m
+[0m[[0mdebug[0m] [0m	  /Users/florian/Code/elff-parser-scala/target/scala-2.11/classes/io[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
